@@ -54,17 +54,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [devtodo](https://github.com/talgat-code/devtodo) | Notion-like task manager built for people who hate complexity | Go, PostgreSQL, SvelteKit, Docker |
-| [Auto Parts E-Commerce](#) | MVP e-commerce platform for a real startup | Python, Django, PostgreSQL, Docker |
-| [UI Defect Detector — AI](#) | AI tool that detects visual bugs in website UI · 🏆 3rd place Narxoz Hackathon | Python, FastAPI |
-| [mesi-moesi-cache-simulator](https://github.com/talgat-code/mesi-moesi-cache-simulator) | Web-based cache coherence protocol simulator | TypeScript |
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
