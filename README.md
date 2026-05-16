@@ -54,15 +54,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=talgat-code&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talgat-code&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
 ### 📬 Connect with me
 
 <p>
