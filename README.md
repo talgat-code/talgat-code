@@ -11,10 +11,9 @@
       <h3>About me:</h3>
       <ul>
         <li>📍 Based in Kazakhstan, Almaty</li>
-        <li>🎓 2nd-year Cybersecurity student at Narxoz University</li>
+        <li>🎓 3nd-year Cybersecurity student at Narxoz University</li>
         <li>⚙️ Backend Developer with 1+ year of hands-on experience</li>
         <li>🐍 Building with Python / Django and Go</li>
-        <li>🐳 Containerizing everything with Docker</li>
         <li>🚀 Looking for Backend opportunities</li>
       </ul>
     </td>
